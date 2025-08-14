@@ -30,3 +30,20 @@
 ![git commit](./Img/Git-commit-for-jerry.png)
 
 ![git push](./Img/git-push-for-jerry.png)
+
+# Merging Changes
+
+## Swithing to a branch
+![update-navigation branch](./Img/Update-Navigation.png)
+
+## Creating a pull request or Tom
+![creating a pull request](./Img/Tom's-pull-request.png)
+
+## Tom's Merged 
+![Tom's Merged](./Img/Tom's-merge.png)
+
+## creating a pull request for Jerry
+![creating a pull request](./Img/Jerry's-pull-request.png)
+
+## Jerry's Merged
+![Jerry's Merged](./Img/Jerry's-merge.png)
